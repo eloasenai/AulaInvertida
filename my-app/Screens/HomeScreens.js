@@ -1,5 +1,5 @@
 import { Text, TouchableOpacity, View } from "react-native";
-import { createStyles, useTheme } from "@react-native-buildstrap";
+import { createStyles, useTheme } from "react-native-buildstrap";
 import { CustomStyles } from "../Styles/CustomStyles";
 import { Ionicons } from "@expo/vector-icons";
 import { StatusBar } from "expo-status-bar";

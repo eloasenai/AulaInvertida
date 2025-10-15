@@ -24,5 +24,5 @@ export default function HomeScreens() {
       <Text styles={[styles.mt2, styles.text]}> Meu estilo proprio</Text>
       <StatusBar barStyle={isDark ? "light-content" : "dark-content"} />
     </View>
-  );
+  ); 
 }
